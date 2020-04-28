@@ -1,0 +1,9 @@
+C:\Users\Abra\source\repos\Lexic\bin\Debug\Lexic.exe
+C:\Users\Abra\source\repos\Lexic\bin\Debug\Lexic.pdb
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.csprojAssemblyReference.cache
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.Form1.resources
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.Properties.Resources.resources
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.csproj.GenerateResource.cache
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.csproj.CoreCompileInputs.cache
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.exe
+C:\Users\Abra\source\repos\Lexic\obj\Debug\Lexic.pdb
